@@ -1,0 +1,16 @@
+.item-container {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+.close {
+  font-weight: 300;
+}
+
+#toggle {
+  color-scheme: green;
+}
