@@ -1,0 +1,22 @@
+.todoItem-container {
+  padding: 5px;
+  border: 1px solid brown;
+  border-radius: 5%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  flex-grow: 3fr;
+  max-width: 60%;
+  word-wrap: break-word;
+}
+
+.button-container {
+  flex-grow: 1fr;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
